@@ -214,8 +214,88 @@
           1,
           null
         ]
+      },
+      "/Users/litowhite/turing/mod2/assessments/b2-mid-mod/app/models/amusement_park.rb": {
+        "lines": [
+          1,
+          1,
+          null
+        ]
+      },
+      "/Users/litowhite/turing/mod2/assessments/b2-mid-mod/app/models/application_record.rb": {
+        "lines": [
+          1,
+          1,
+          null
+        ]
+      },
+      "/Users/litowhite/turing/mod2/assessments/b2-mid-mod/spec/models/mechanic_rides_spec.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          1,
+          2,
+          2,
+          null,
+          null,
+          null
+        ]
+      },
+      "/Users/litowhite/turing/mod2/assessments/b2-mid-mod/app/models/mechanic_ride.rb": {
+        "lines": [
+          1,
+          1,
+          1,
+          null
+        ]
+      },
+      "/Users/litowhite/turing/mod2/assessments/b2-mid-mod/spec/models/mechanic_spec.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          1,
+          2,
+          2,
+          null,
+          null,
+          null
+        ]
+      },
+      "/Users/litowhite/turing/mod2/assessments/b2-mid-mod/app/models/mechanic.rb": {
+        "lines": [
+          1,
+          1,
+          1,
+          null
+        ]
+      },
+      "/Users/litowhite/turing/mod2/assessments/b2-mid-mod/spec/models/ride_spec.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          1,
+          2,
+          2,
+          2,
+          null,
+          null,
+          null
+        ]
+      },
+      "/Users/litowhite/turing/mod2/assessments/b2-mid-mod/app/models/ride.rb": {
+        "lines": [
+          1,
+          1,
+          null,
+          1,
+          1,
+          null
+        ]
       }
     },
-    "timestamp": 1594954796
+    "timestamp": 1595000882
   }
 }
