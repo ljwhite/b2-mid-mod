@@ -208,6 +208,8 @@
           null,
           null,
           1,
+          1,
+          1,
           null,
           1,
           null
@@ -225,7 +227,7 @@
           1,
           null,
           1,
-          1,
+          0,
           null,
           null
         ]
@@ -246,8 +248,53 @@
           1,
           null
         ]
+      },
+      "/Users/litowhite/turing/mod2/assessments/b2-mid-mod/app/models/mechanic.rb": {
+        "lines": [
+          1,
+          1,
+          1,
+          null
+        ]
+      },
+      "/Users/litowhite/turing/mod2/assessments/b2-mid-mod/app/models/mechanic_ride.rb": {
+        "lines": [
+          1,
+          1,
+          1,
+          null
+        ]
+      },
+      "/Users/litowhite/turing/mod2/assessments/b2-mid-mod/app/controllers/mechanics_controller.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          0,
+          null,
+          null,
+          1,
+          2,
+          null,
+          null,
+          1,
+          1,
+          1,
+          1,
+          1,
+          null,
+          null,
+          null
+        ]
+      },
+      "/Users/litowhite/turing/mod2/assessments/b2-mid-mod/app/controllers/application_controller.rb": {
+        "lines": [
+          1,
+          1,
+          null
+        ]
       }
     },
-    "timestamp": 1595004572
+    "timestamp": 1595008588
   }
 }
