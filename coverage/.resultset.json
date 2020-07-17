@@ -221,13 +221,101 @@
           null
         ]
       },
+      "/Users/litowhite/turing/mod2/assessments/b2-mid-mod/spec/features/mechanics/index_spec.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          1,
+          1,
+          null,
+          1,
+          1,
+          null,
+          1,
+          1,
+          1,
+          1,
+          1,
+          null,
+          null,
+          null,
+          null
+        ]
+      },
+      "/Users/litowhite/turing/mod2/assessments/b2-mid-mod/spec/features/mechanics/show_spec.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          1,
+          null,
+          1,
+          2,
+          null,
+          2,
+          2,
+          2,
+          null,
+          2,
+          null,
+          2,
+          2,
+          null,
+          2,
+          null,
+          null,
+          1,
+          null,
+          1,
+          1,
+          1,
+          1,
+          null,
+          null,
+          null,
+          1,
+          null,
+          1,
+          1,
+          0,
+          0,
+          null,
+          null,
+          null,
+          null,
+          null
+        ]
+      },
+      "/Users/litowhite/turing/mod2/assessments/b2-mid-mod/spec/models/amusement_park_spec.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          null,
+          1,
+          2,
+          null,
+          null,
+          1,
+          1,
+          1,
+          1,
+          1,
+          null,
+          1,
+          null,
+          null,
+          null
+        ]
+      },
       "/Users/litowhite/turing/mod2/assessments/b2-mid-mod/app/models/amusement_park.rb": {
         "lines": [
           1,
           1,
           null,
           1,
-          0,
+          4,
           null,
           null
         ]
@@ -236,6 +324,62 @@
         "lines": [
           1,
           1,
+          null
+        ]
+      },
+      "/Users/litowhite/turing/mod2/assessments/b2-mid-mod/spec/models/mechanic_rides_spec.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          1,
+          2,
+          2,
+          null,
+          null,
+          null
+        ]
+      },
+      "/Users/litowhite/turing/mod2/assessments/b2-mid-mod/app/models/mechanic_ride.rb": {
+        "lines": [
+          1,
+          1,
+          1,
+          null
+        ]
+      },
+      "/Users/litowhite/turing/mod2/assessments/b2-mid-mod/spec/models/mechanic_spec.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          1,
+          2,
+          2,
+          null,
+          null,
+          null
+        ]
+      },
+      "/Users/litowhite/turing/mod2/assessments/b2-mid-mod/app/models/mechanic.rb": {
+        "lines": [
+          1,
+          1,
+          1,
+          null
+        ]
+      },
+      "/Users/litowhite/turing/mod2/assessments/b2-mid-mod/spec/models/ride_spec.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          1,
+          2,
+          2,
+          2,
+          null,
+          null,
           null
         ]
       },
@@ -249,17 +393,18 @@
           null
         ]
       },
-      "/Users/litowhite/turing/mod2/assessments/b2-mid-mod/app/models/mechanic.rb": {
+      "/Users/litowhite/turing/mod2/assessments/b2-mid-mod/app/controllers/amusement_parks_controller.rb": {
         "lines": [
           1,
+          null,
           1,
-          1,
+          3,
+          null,
           null
         ]
       },
-      "/Users/litowhite/turing/mod2/assessments/b2-mid-mod/app/models/mechanic_ride.rb": {
+      "/Users/litowhite/turing/mod2/assessments/b2-mid-mod/app/controllers/application_controller.rb": {
         "lines": [
-          1,
           1,
           1,
           null
@@ -270,7 +415,7 @@
           1,
           null,
           1,
-          0,
+          1,
           null,
           null,
           1,
@@ -286,15 +431,8 @@
           null,
           null
         ]
-      },
-      "/Users/litowhite/turing/mod2/assessments/b2-mid-mod/app/controllers/application_controller.rb": {
-        "lines": [
-          1,
-          1,
-          null
-        ]
       }
     },
-    "timestamp": 1595008588
+    "timestamp": 1595008788
   }
 }

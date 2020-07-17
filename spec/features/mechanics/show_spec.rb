@@ -31,6 +31,7 @@ RSpec.describe 'As a user' do
 
       fill_in :ride_id, with: "#{@ride_3.id}"
       click_on "Add Ride"
+      visit "/mechanics/#{@mechanic_1.id}"
       expect(page).to have_content(@ride_3.name)
 
     end
